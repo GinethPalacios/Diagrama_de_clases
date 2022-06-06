@@ -1,0 +1,15 @@
+C:\Users\Sena\Documents\Trabajos VG\Codigodiagramadeclases\obj\Debug\net6.0\Codigodiagramadeclases.csproj.AssemblyReference.cache
+C:\Users\Sena\Documents\Trabajos VG\Codigodiagramadeclases\obj\Debug\net6.0\Codigodiagramadeclases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Documents\Trabajos VG\Codigodiagramadeclases\obj\Debug\net6.0\Codigodiagramadeclases.AssemblyInfoInputs.cache
+C:\Users\Sena\Documents\Trabajos VG\Codigodiagramadeclases\obj\Debug\net6.0\Codigodiagramadeclases.AssemblyInfo.cs
+C:\Users\Sena\Documents\Trabajos VG\Codigodiagramadeclases\obj\Debug\net6.0\Codigodiagramadeclases.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Documents\Trabajos VG\Codigodiagramadeclases\bin\Debug\net6.0\Codigodiagramadeclases.exe
+C:\Users\Sena\Documents\Trabajos VG\Codigodiagramadeclases\bin\Debug\net6.0\Codigodiagramadeclases.deps.json
+C:\Users\Sena\Documents\Trabajos VG\Codigodiagramadeclases\bin\Debug\net6.0\Codigodiagramadeclases.runtimeconfig.json
+C:\Users\Sena\Documents\Trabajos VG\Codigodiagramadeclases\bin\Debug\net6.0\Codigodiagramadeclases.dll
+C:\Users\Sena\Documents\Trabajos VG\Codigodiagramadeclases\bin\Debug\net6.0\Codigodiagramadeclases.pdb
+C:\Users\Sena\Documents\Trabajos VG\Codigodiagramadeclases\obj\Debug\net6.0\Codigodiagramadeclases.dll
+C:\Users\Sena\Documents\Trabajos VG\Codigodiagramadeclases\obj\Debug\net6.0\refint\Codigodiagramadeclases.dll
+C:\Users\Sena\Documents\Trabajos VG\Codigodiagramadeclases\obj\Debug\net6.0\Codigodiagramadeclases.pdb
+C:\Users\Sena\Documents\Trabajos VG\Codigodiagramadeclases\obj\Debug\net6.0\Codigodiagramadeclases.genruntimeconfig.cache
+C:\Users\Sena\Documents\Trabajos VG\Codigodiagramadeclases\obj\Debug\net6.0\ref\Codigodiagramadeclases.dll
